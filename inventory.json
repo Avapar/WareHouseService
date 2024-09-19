@@ -1,0 +1,8 @@
+[
+    {
+      "item_id": "1",
+      "name": "abc",
+      "quantity": 10,
+      "warehouse_id": "WH1"
+    }
+  ]
